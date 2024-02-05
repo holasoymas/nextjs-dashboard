@@ -180,11 +180,11 @@ const revenue = [
   { month: 'Dec', revenue: 4800 },
 ];
 
-// module.exports = {
-//   users,
-//   customers,
-//   invoices,
-//   revenue,
-// };
+module.exports = {
+  users,
+  customers,
+  invoices,
+  revenue,
+};
 
-export default { users, customers, invoices, revenue };
+// export default { users, customers, invoices, revenue };
